@@ -1,7 +1,8 @@
-### Hi there 👋
 
-<!--
-**Likimeya/Likimeya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![image](https://user-images.githubusercontent.com/118725578/224954445-42252809-48b2-4b77-bda0-f358823680e6.png)
+
+
+
 
 Here are some ideas to get you started:
 
