@@ -1,10 +1,11 @@
- ![image](https://user-images.githubusercontent.com/118725578/224955383-2b665605-ad3e-44ff-a601-6a15f20e2cbf.png)
+![224955383-2b665605-ad3e-44ff-a601-6a15f20e2cbf](https://user-images.githubusercontent.com/118725578/225858156-768bef5b-bb2c-4cf9-9eb0-d2370ebd0f39.png)
 
 
 
 
 
-Here are some ideas to get you started:
+
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
