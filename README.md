@@ -20,7 +20,7 @@
   Apasionada por el aprendizaje Tecnológico y disfrutando de una transición hacia el mundo Data <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 * :telescope: Actualmente estoy testudiando un bootcamp en It Academmy de Data Science :muscle:
 
-* :seedling: Estoy estudiando :blue_book: y practicando :computer: lenguaje SQL y Python, algortimos de Machine Learning
+* :seedling: Estoy estudiando :blue_book: y practicando :computer: lenguaje SQL y Python, algoritimos de Machine Learning
 
 * :heartbeat: Me gusta tener retos
 
