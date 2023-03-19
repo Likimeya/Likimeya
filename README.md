@@ -9,7 +9,7 @@
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/taida-costa-catalán-8550b146)
 
 <h1>
-  Hola soy Taida. ¡Encantada de conocerte!
+  Soy Taida. ¡Hola!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
@@ -24,4 +24,4 @@
 
 * :heartbeat: Me gusta tener retos
 
-* :mailbox: ¿Quieres contactar conmigo? [![Linkedin Badge](https://img.shields.io/badge/-Taida-black?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/taida-costa-catalán-8550b146)
+* :mailbox: ¿Quieres contactar conmigo? [![Linkedin Badge](https://img.shields.io/badge/-Taida-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/taida-costa-catalán-8550b146)
