@@ -1,11 +1,12 @@
-![224955383-2b665605-ad3e-44ff-a601-6a15f20e2cbf](https://user-images.githubusercontent.com/118725578/225858156-768bef5b-bb2c-4cf9-9eb0-d2370ebd0f39.png)
 
 
 
 
+![Taida Costa](https://user-images.githubusercontent.com/118725578/226172868-61fe6c53-60a8-42ff-88cc-5308cd551a76.png)
 
 
 
+[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/taida-costa-catalán-8550b146)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
