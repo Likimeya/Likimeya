@@ -22,6 +22,6 @@
 
 * :seedling: Estoy estudiando :blue_book: y practicando :computer: lenguaje SQL y Python, algoritmos de Machine Learning
 
-* :heartbeat: Apasionada por aprender cosas nuevas, tener retos que hagan tambalearme y mejorar
+* :heartbeat: Apasionada por aprender cosas nuevas, tener desafíos que hagan tambalearme y mejorar
 
 * :mailbox: ¿Quieres contactar conmigo? [![Linkedin Badge](https://img.shields.io/badge/-Taida-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/taida-costa-catalán-8550b146)
