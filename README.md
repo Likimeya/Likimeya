@@ -18,10 +18,10 @@
 
 ### :woman_technologist: Sobre mí :
   Apasionada por el aprendizaje Tecnológico y disfrutando de una transición hacia el mundo Data <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-* :telescope: Actualmente estoy testudiando un bootcamp en It Academmy de Data Science :muscle:
+* :telescope: Actualmente estoy estudiando un bootcamp en It Academmy de Data Science :muscle:
 
-* :seedling: Estoy estudiando :blue_book: y practicando :computer: lenguaje SQL y Python, algoritimos de Machine Learning
+* :seedling: Estoy estudiando :blue_book: y practicando :computer: lenguaje SQL y Python, algoritmos de Machine Learning
 
-* :heartbeat: Me gusta tener retos
+* :heartbeat: Apasionada por aprender cosas nuevas, tener retos que hagan tambalearme y mejorar
 
 * :mailbox: ¿Quieres contactar conmigo? [![Linkedin Badge](https://img.shields.io/badge/-Taida-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/taida-costa-catalán-8550b146)
