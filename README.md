@@ -4,7 +4,7 @@
 
 ![Taida Costa](https://user-images.githubusercontent.com/118725578/226172868-61fe6c53-60a8-42ff-88cc-5308cd551a76.png)
 
-
+<div class="tenor-gif-embed" data-postid="22257939" data-share-method="host" data-aspect-ratio="2.42424" data-width="100%"><a href="https://tenor.com/view/cat-coding-gif-22257939">Cat Coding GIF</a>from <a href="https://tenor.com/search/cat+coding-gifs">Cat Coding GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/taida-costa-catalán-8550b146)
 
