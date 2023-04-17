@@ -4,7 +4,7 @@
 
 ![Taida Costa](https://user-images.githubusercontent.com/118725578/226172868-61fe6c53-60a8-42ff-88cc-5308cd551a76.png)
 
-![Taida Costa](https://tenor.com/search/cat+coding-gifs)
+
 
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/taida-costa-catalán-8550b146)
 
