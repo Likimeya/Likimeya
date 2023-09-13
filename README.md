@@ -26,5 +26,6 @@
 
 * :mailbox: ¿Quieres contactar conmigo? [![Linkedin Badge](https://img.shields.io/badge/-Taida-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/taida-costa-catalán-8550b146)
 
-* 
-                    ![visitors](https://visitor-badge.laobi.icu/badge?page_id=page.id)
+* <p align="center">
+<a href="https://github.com/Likimeya"><img src="https://profile-counter.glitch.me/{Aleksey-Voko}/count.svg" alt="Likimeya :: Visitor's Count" /></a>
+</p>
