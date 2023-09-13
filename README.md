@@ -8,6 +8,10 @@
 
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/taida-costa-catalán-8550b146)
 
+
+
+<!-- Github trophies: <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=stratocastero" alt="stratocastero" /></a> </p> -->
+<br>
 <h1>
   Soy Taida. ¡Hola!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
@@ -26,6 +30,7 @@
 
 * :mailbox: ¿Quieres contactar conmigo? [![Linkedin Badge](https://img.shields.io/badge/-Taida-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/taida-costa-catalán-8550b146)
 
-* <p align="center">
-<a href="https://github.com/Likimeya"><img" alt="Likimeya :: Visitor's Count" /></a>
-</p>
+<p align="center"> <img height="20px" src="https://komarev.com/ghpvc/?username=Likimeya" alt="Likimeya" />
+<a href="https://github.com/Likimeya"><img src="https://img.shields.io/github/stars/Likimeya"/></a>
+
+
